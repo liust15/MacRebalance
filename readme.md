@@ -1,5 +1,5 @@
 
-居中的图片: ![Alt](./img/set.png)
+![Alt](./img/set.png)
 
 
 ```
