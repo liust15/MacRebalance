@@ -1,6 +1,7 @@
 
 居中的图片: ![Alt](./img/set.png)
 
+
 ```
 tell application "System Preferences"
     activate
@@ -22,3 +23,4 @@ tell application "System Preferences"
     quit
 end tell
 ```
+启动 alfred 输入 balancelock
